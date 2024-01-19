@@ -1,4 +1,4 @@
-# Introduction
+= Introduction
 
 You need to know some stuff first.
 
@@ -11,7 +11,7 @@ This page has been updated
 * link:https://neo4j.com/docs/aura[Aura]
 * link:https://neo4j.com/docs/aura/auradb[AuraDB]
 
-## Linting mistakes
+== Linting mistakes
 
 Customers like Neo4j.
 

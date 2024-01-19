@@ -1,8 +1,9 @@
-# Antora and github actions tests
+= Antora and github actions tests
 :no-attribute: 'an attribute'
+
 Just testing workflows, actions, annotations.
 
-## Content to generate xrefs and warnings
+== Content to generate xrefs and warnings
 
 include::partial$include-target.adoc[]
 

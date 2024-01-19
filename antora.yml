@@ -1,0 +1,6 @@
+name: gha-tests
+title: Neo4j Documentation GHA Tests
+version: '1'
+start_page: ROOT:index.adoc
+nav:
+- modules/ROOT/content-nav.adoc
