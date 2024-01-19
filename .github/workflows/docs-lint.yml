@@ -42,7 +42,7 @@ jobs:
 
   docs-lint:
     name: Lint docs
-    uses: recrwplay/actions-demo/workflows/reusable-docs-lint.yml@dev
+    uses: recrwplay/actions-demo/.github/workflows/reusable-docs-lint.yml@dev
     with:
       files: ${{ inputs.files }}
       reporter: ${{ inputs.reporter }}
